@@ -1,0 +1,135 @@
+id: P93127942
+initial_creation_type: input
+source_metadata:
+  title: 'Nāgārjuna: Mūlamadhyamakakārikā'
+  language: bo
+  volumes:
+    f2b0a77ec3b2466e8c3e91f825f2315e:
+      title: 'CIII_Chapter XI: Pūrvāparakoṭiparīkṣa'
+      base_file: 'CIII_Chapter XI: Pūrvāparakoṭiparīkṣa.txt'
+      work_id: WD8FAAD64
+    58d6943063814aaba2cfab76f6e7dbdb:
+      title: 'CIII_Chapter XII: Duḥkhaparīkṣā'
+      base_file: 'CIII_Chapter XII: Duḥkhaparīkṣā.txt'
+      work_id: WE5FDFC44
+    d0fce0f0f4ad422bb148bba23611f444:
+      title: 'CIII_Chapter XIII: Saṃskāraparīkṣā'
+      base_file: 'CIII_Chapter XIII: Saṃskāraparīkṣā.txt'
+      work_id: W4EE960EE
+    b479f705d034498eaaa5ef99c8dd5cb5:
+      title: 'CIII_Chapter XIV: Saṃsargaparīkṣā'
+      base_file: 'CIII_Chapter XIV: Saṃsargaparīkṣā.txt'
+      work_id: W6FE8ED9E
+    8f0a4fc7c5ea4c5e8f21984f8e013d81:
+      title: 'CIII_Chapter XV: Svabhāvaparīkṣā'
+      base_file: 'CIII_Chapter XV: Svabhāvaparīkṣā.txt'
+      work_id: W44D02C9C
+    14a912eff53d4b5c8a3cf67ad7473335:
+      title: 'CII_Chapter IX: Pūrvaparīkṣā'
+      base_file: 'CII_Chapter IX: Pūrvaparīkṣā.txt'
+      work_id: W45795AA7
+    76cbe3370c38466d9a90df43e5fc6be7:
+      title: 'CII_Chapter VI: Rāgasaktiparīkṣā'
+      base_file: 'CII_Chapter VI: Rāgasaktiparīkṣā.txt'
+      work_id: W88366FAD
+    fd11394c897345cea560097b4e15c641:
+      title: 'CII_Chapter VII: Saṃskr̥̥taparīkṣā'
+      base_file: 'CII_Chapter VII: Saṃskr̥̥taparīkṣā.txt'
+      work_id: WD88C8E4D
+    774cef22215e463b9faa7c101877b08d:
+      title: 'CII_Chapter VIII: Karmakārakaparīkṣā'
+      base_file: 'CII_Chapter VIII: Karmakārakaparīkṣā.txt'
+      work_id: W4E48245C
+    b408299929b84e6599e76f38141840e5:
+      title: 'CII_Chapter X: Agnīndhanaparīkṣā'
+      base_file: 'CII_Chapter X: Agnīndhanaparīkṣā.txt'
+      work_id: W8E2AB2B4
+    a3883ac5cb8d41669290475c7bc932fa:
+      title: 'CIV_Chapter XIX: Kālaparīkṣā'
+      base_file: 'CIV_Chapter XIX: Kālaparīkṣā.txt'
+      work_id: WB419BE25
+    fddeffce6bfc41afae6bcccde240cc0d:
+      title: 'CIV_Chapter XVI: Bandhanamokṣaparīkṣā'
+      base_file: 'CIV_Chapter XVI: Bandhanamokṣaparīkṣā.txt'
+      work_id: WBCCD52CD
+    784ebc97f16a4b8b82d7a87d90ec8cdc:
+      title: 'CIV_Chapter XVII: Karmaphalaparīkṣā'
+      base_file: 'CIV_Chapter XVII: Karmaphalaparīkṣā.txt'
+      work_id: W7B4B41E4
+    78e056011758439f808fddead8da7013:
+      title: 'CIV_Chapter XVIII: Ātmaparīkṣā'
+      base_file: 'CIV_Chapter XVIII: Ātmaparīkṣā.txt'
+      work_id: WD53E151A
+    3ceb6865c49e446cb5e1ad6bfa7ce174:
+      title: 'CIV_Chapter XX: Sāmagrīparīkṣā'
+      base_file: 'CIV_Chapter XX: Sāmagrīparīkṣā.txt'
+      work_id: WDD86A4D0
+    f578c28067114f0d863a7e850de239c8:
+      title: 'CI_Chapter I: Pratyayaparīkṣā'
+      base_file: 'CI_Chapter I: Pratyayaparīkṣā.txt'
+      work_id: W06174E16
+    e30627d151cd4f15b1772c6ccc57b49d:
+      title: 'CI_Chapter II: Gatāgataparīkṣaṇa'
+      base_file: 'CI_Chapter II: Gatāgataparīkṣaṇa.txt'
+      work_id: W7467A87A
+    10fc8ff1eae543b083505104df8547d7:
+      title: 'CI_Chapter III: Cakṣurādīndriyaparīkṣā'
+      base_file: 'CI_Chapter III: Cakṣurādīndriyaparīkṣā.txt'
+      work_id: W599F9666
+    42e14fa5a37842ad963d5e1b3e457632:
+      title: 'CI_Chapter IV: Skandhaparīkṣā'
+      base_file: 'CI_Chapter IV: Skandhaparīkṣā.txt'
+      work_id: WD4F301D9
+    475f97d169574214adb854e85dc8d778:
+      title: 'CI_Chapter V: Dhātuparīkṣā'
+      base_file: 'CI_Chapter V: Dhātuparīkṣā.txt'
+      work_id: W8270BB4C
+    31b1d95ebdef4888b44da11241b11d0c:
+      title: 'CVI_Chapter XXVI: Dvādaśāṅgaparīkṣā'
+      base_file: 'CVI_Chapter XXVI: Dvādaśāṅgaparīkṣā.txt'
+      work_id: WE4D84BFE
+    0d191b30a6e64b9cad26efc0318b0c43:
+      title: 'CVI_Chapter XXVII: Dr̥ṣṭiparīkṣā'
+      base_file: 'CVI_Chapter XXVII: Dr̥ṣṭiparīkṣā.txt'
+      work_id: W2AA1A424
+    acb7e4c12b074781b82780eaef4b69d1:
+      title: 'CV_Chapter XXI: Saṃbhavavibhavaparīkṣā'
+      base_file: 'CV_Chapter XXI: Saṃbhavavibhavaparīkṣā.txt'
+      work_id: W6EEEB560
+    18c1192cdb7c47b98dff57b121b9acc7:
+      title: 'CV_Chapter XXII: Tathāgataparīkṣā'
+      base_file: 'CV_Chapter XXII: Tathāgataparīkṣā.txt'
+      work_id: WC8A1F223
+    992f5eb6655d40869ae6fb5d1858e6cb:
+      title: 'CV_Chapter XXIII: Viparyāsaparīkṣā'
+      base_file: 'CV_Chapter XXIII: Viparyāsaparīkṣā.txt'
+      work_id: W94272697
+    c75ad25a5c8d44b4a9302f0369fe7f35:
+      title: 'CV_Chapter XXIV: Āryasatyaparīkṣā'
+      base_file: 'CV_Chapter XXIV: Āryasatyaparīkṣā.txt'
+      work_id: WC9323BD2
+    f3619e31f199460a90f0eacc28bc7bda:
+      title: 'CV_Chapter XXV: nirvāṇaparīkṣā'
+      base_file: 'CV_Chapter XXV: nirvāṇaparīkṣā.txt'
+      work_id: W61EF9003
+    77e4d4ec92fc43b0971aad617f77b62f:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: WBA4B43BD
+    992a38d959c94e489a885ea1a807bb53:
+      title: Preface
+      base_file: Preface.txt
+      work_id: W2DDDC1D4
+    3edc7655a071484c923f9eeafe055d06:
+      title: Title
+      base_file: Title.txt
+      work_id: W1537FC59
+  chapter_to_tile:
+    CI: Chapters I-V
+    CII: Chapters VI-X
+    CIII: Chapters XI-XV
+    CIV: Chapters XVI-XX
+    CV: Chapters XXI-XXV
+    CVI: Chapters XXVI-XXVII
+created_at: '2022-03-01T23:09:03.032547'
+last_modified_at: '2022-03-01T23:09:03.032555'
